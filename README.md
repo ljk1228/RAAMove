@@ -8,7 +8,7 @@ The dataset currently released comprises a subset of the entire corpus.
 - Total number of abstracts: 400
 - (Artificial Intelligence: 200, Engineering: 200)
 - Total number of sentences: 8,934
-- (Artificial Intelligence: , Engineering: )
+- (Artificial Intelligence: , Engineering:1636 )
 
 ## Corpus Selection
 Artificial Intelligence: 
