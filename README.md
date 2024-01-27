@@ -7,8 +7,8 @@ The RAAMove is a manually annotated dataset specifically created for the study o
 The dataset currently released comprises a subset of the entire corpus.
 - Total number of abstracts: 400
 - (Artificial Intelligence: 200, Engineering: 200)
-- Total number of sentences: 8,934
-- (Artificial Intelligence: , Engineering:1636 )
+- Total number of sentences: 3,069
+- (Artificial Intelligence: 1,433 , Engineering: 1,636 )
 
 ## Corpus Selection
 Artificial Intelligence: 
